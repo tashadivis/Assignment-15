@@ -1,2 +1,2 @@
-# Assignement-15
+# Assignment-15
 Wordpress - Restaurant Website
